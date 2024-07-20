@@ -1,17 +1,14 @@
-body{
-    background-image: url("images/wp5471307.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
+#box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: pink
 }
-h1{
-    background: linear-gradient(to right,purple white);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-p{
-    background: linear-gradient(purple, white);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+#box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: blue
 }
