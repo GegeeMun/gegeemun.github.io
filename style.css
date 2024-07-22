@@ -12,3 +12,28 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+h1{
+    margin-left: 700px;
+}
+.helo{
+    margin-left:600px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.type1{
+    widht: 30%;
+    display: block;
+    margin: 0px auto;
+}
+.type2{
+    widht: 30%;
+    display: block;
+    margin: 0px auto;
+}
+.type3{
+    widht: 30%;
+    display: block;
+    margin: 0px auto;
+}
