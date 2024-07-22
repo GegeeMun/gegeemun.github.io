@@ -1,14 +1,14 @@
-#box1{
-    border: 5px solid;
-    width: 250px;
-    height: 250px;
-    font-size: 22px;
-    background: pink
+h1{
+    text-shadow: 0px 0px 5px white, 0px -5px 5px pink
 }
-#box2{
-    border: 5px solid;
-    width: 250px;
-    height: 250px;
-    font-size: 22px;
-    background: blue;
+.fa-heart{
+    color: deeppink
+}
+.fa-cat{
+    color: deeppink;
+}
+body{
+    background: linear-gradient(to right, white, deeppink);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
